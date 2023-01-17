@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [My Portfolio Page] <a name="about-project"></a>
 
-> This is my Portfolio page I made this with HTMl & CSS. I completed this website by using simple HTML & CSS line. I used _header, image, text, menu-bar & icons_ in by Html & _colors, sizes, margins, & paddings_ ,etc I used css for stylings.
+> This is my Portfolio page I made this with _HTML & CSS_. I add my _Projects_ and _Skills_ in my portfolio webpage.
 
 **[My Portfolio]** This is my Portfolio page.
 
@@ -100,7 +100,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Html structure with images, icons, header & menu-bar, etc]**
+- **[Html structure with images, icons, header & menu-bar, links, project, skills, etc]**
 - **[Styling css with colors, paddings, margins & sizes, etc]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -138,6 +138,7 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder:
+_ Opend CMD, Terminal or GitBash in your pc and type this command _ git clone git@github.com:myaccount/my-project.git_
 
 <!--
 Example commands:
@@ -151,7 +152,7 @@ Example commands:
 ### Install
 
 Install this project with:
-
+_ You can simply download this project you don't need to install in your pc because it is webpage.
 <!--
 Example command:
 
@@ -164,6 +165,7 @@ Example command:
 ### Usage
 
 To run the project, execute the following command:
+_ You can use it by download in your computer.
 
 <!--
 Example command:
